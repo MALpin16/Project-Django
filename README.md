@@ -1,2 +1,2 @@
 # Project-Django
-<a href="https://www.contoh.com">Tautan ke WEB</a>
+<a href="https://malpin16.github.io/Project-Django/">Tautan ke WEB</a>
